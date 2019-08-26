@@ -1,0 +1,19 @@
+# sample file to be downloaded on https://opentransportdata.swiss/dataset/istdaten
+data/2019-08-22istdaten.csv
+
+# archive files to be downloaded on https://drive.google.com/drive/folders/1SVa68nJJRL3qgRSPKcXY7KuPN9MuHVhJ
+data/18_07.zip
+data/18_08.zip
+data/18_09.zip
+data/18_10.zip
+data/18_11.zip
+data/18_12.zip
+data/19_1.zip
+data/19_2.zip
+data/19_3.zip
+data/19_4.zip
+data/19_5.zip
+data/19_6.zip
+
+# outcome from preprocessing the archive files
+data/data_clean_201807-201906.pkl
