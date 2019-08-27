@@ -25,7 +25,13 @@ https://medium.com/@christopher.hogendijk/sbb-trains-delay-4b1e23f3bd15
 	
 ## Installations 
 Whole project was done using python 3, either in juypter notebooks or python file (for the preprocessing of the archive files, which takes approx. 1 hour on a macbook pro 2013).
-No special installations required besides the normal data science library. Given the size of the datasets, datasets have to be downloaded prior to runnign the scripts by the users (as described in section "Files")
+No special installations required besides the normal data science libraries:
+    - Python
+    - NumPy
+    - pandas
+    - Matplotlib
+
+ Given the size of the datasets, datasets have to be downloaded prior to runnign the scripts by the users (as described in section "Files")
 
 ## Conclusion
 This explanatory work has shown that it is possible to get good insights and interesting statistics out of the actual data from SBB. However, several steps of filtering and reducting the data size are absolutely mandatory to be able to naviguate in these GB of data to make some sense out of it.
