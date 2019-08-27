@@ -1,0 +1,8 @@
+Soll/Ist Vergleich Abfahrts-/Ankunftszeiten SBB (Vortag):
+https://data.sbb.ch/explore/dataset/ist-daten-sbb/information/
+
+Archive:
+https://opentransportdata.swiss/dataset/istdaten
+
+Licence:
+https://data.sbb.ch/page/licence/
