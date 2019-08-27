@@ -12,3 +12,7 @@
 
 # Plots saved for blogpost
 /Plots/*
+
+# Others
+.DS_Store
+.ipynb_checkpoints/
